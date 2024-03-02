@@ -33,7 +33,7 @@ const data = [
     github: "https://github.com/zidnely/zidnely-react-portfolio",
     demo: "https://zidnely-react-portfolio.vercel.app/",
     description:
-      "HTML, CSS, and JS website for Meru Daily Sacco, integrating React, Vue, and Tailwind CSS for a user-friendly experience.",
+      "This portfolio was built with Html, CSS, JavaScript, React, React Icons and Javascript libraries - SwiperJS(For Carousels/slides), EmailJs.",
   },
 ];
 
