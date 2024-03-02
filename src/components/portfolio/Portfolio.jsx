@@ -31,7 +31,7 @@ const data = [
     image: PortfolioImg,
     title: "PORTFOLIO",
     github: "https://github.com/zidnely/zidnely-react-portfolio",
-    demo: "",
+    demo: "https://zidnely-react-portfolio.vercel.app/",
     description:
       "HTML, CSS, and JS website for Meru Daily Sacco, integrating React, Vue, and Tailwind CSS for a user-friendly experience.",
   },
